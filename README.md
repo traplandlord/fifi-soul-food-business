@@ -1,18 +1,14 @@
-# Fifi's Soul Food Plate — Business Plan & Metrics
+# Fifi's Soul Food Plate — Business materials
 
-Public spreadsheets and plan docs for **Fifi's Soul Food Plate** / Soul Food Pop.
+**Momma Fifi Soul · Traplord Vee**
 
-## Start here
-- **[fifi-comprehensive-metrics.csv](./fifi-comprehensive-metrics.csv)** — master file (highlights + all metrics)
-- [powerhouse-stats.csv](./powerhouse-stats.csv)
-- [cogs-and-pricing.csv](./cogs-and-pricing.csv)
-- [shipping-and-growth-economics.csv](./shipping-and-growth-economics.csv)
-- [deals-economics.csv](./deals-economics.csv)
-- [business-plan.md](./business-plan.md)
+## Start here (investors)
 
-## Live pages
-- Ordering site: https://traplandlord.github.io/fifi-soul-food-plate/
-- Business hub: https://traplandlord.github.io/fifi-soul-food-plate/business/
-- Site + these files also live in: https://github.com/traplandlord/fifi-soul-food-plate/tree/main/business
+1. **[investor/Fifi-Soul-Food-Plate-Investor-Deck.pptx](investor/Fifi-Soul-Food-Plate-Investor-Deck.pptx)**  
+2. **What-if calculators** on the site: `/business/calculators.html` (also `06-calculators/`)  
+3. **[03-simulator/ops-simulation-flywheel-demand.csv](03-simulator/ops-simulation-flywheel-demand.csv)** — week 1→52 drop simulator  
+4. **[02-unit-economics/cogs-and-pricing.csv](02-unit-economics/cogs-and-pricing.csv)** — chicken, greens, sweets, roll, supplies  
 
-Open CSVs in Excel or Google Sheets (File → Import).
+**Operating modes:** pop-up only (no location) **or** with location · initially **24hr full-throttle** · daily pops · weekend higher yield.
+
+Illustrative models only. **Not financial advice.**
